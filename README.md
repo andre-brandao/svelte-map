@@ -2,6 +2,12 @@
 
 A small library made with [leaflet.js](https://leafletjs.com/)
 
+## Instalation
+```bash
+npm i svelte-map leaflet
+npm i -D @types/leaflet
+```
+
 ## Exemple usage
 
 ```svelte
